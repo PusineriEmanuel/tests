@@ -1,0 +1,8 @@
+:root {
+  --color: orange;
+}
+
+.hTest {
+  color: orange;
+  color: var(--color, orange);
+}
