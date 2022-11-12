@@ -687,3 +687,4 @@ console.log(DecimalABinario(4));
 
 //1&2 0
 //1/2 0,5
+let testingGitHub = 0;
